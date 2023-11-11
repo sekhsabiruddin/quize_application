@@ -1,0 +1,14 @@
+input {
+  border: 0;
+  border-bottom: 1px solid rgb(67, 59, 59);
+  outline: none;
+  width: 100px;
+  margin: 0 1rem;
+  font-size: 1.3rem;
+}
+.fillinthebank-question {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}

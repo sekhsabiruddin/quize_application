@@ -1,0 +1,11 @@
+.free-question-container {
+  padding: 1rem 2rem;
+}
+.free-question-container .free-question-input {
+  margin-top: 20px;
+  outline: none;
+  width: 100%;
+  padding: 1rem 1rem;
+  font-size: 1.4rem;
+  border: 1px solid black;
+}

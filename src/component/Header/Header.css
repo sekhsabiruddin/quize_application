@@ -1,0 +1,26 @@
+.outer-header {
+  /* border: 1px solid red; */
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 3rem;
+}
+.header button {
+  cursor: pointer;
+  padding: 0.4rem 3rem;
+  border: 0;
+  color: aliceblue;
+  background-color: #ffaa01;
+  font-size: 1.3rem;
+  border-radius: 6px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.header-mid button {
+  margin: 5px 15px;
+  background-color: rgb(21, 0, 155);
+}
+.header-right button {
+  background-color: #1fa67f;
+}
